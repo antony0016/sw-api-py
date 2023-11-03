@@ -1,0 +1,9 @@
+# Ignore env files
+.env
+
+# Ignore lock files
+*.lock
+
+# Ignore ide files
+.idea
+.vscode
